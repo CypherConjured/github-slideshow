@@ -1,6 +1,6 @@
 ---
-layout:
-post:
+layout: slide
+title: "Welcome to our second slide!"
 ---
-
-Press the arrow something or other.
+Wow a whole 'nother slide!
+Use the left arrow to go back!
